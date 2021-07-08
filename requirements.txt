@@ -1,7 +1,4 @@
 numpy
-scipy
 opencv-python
-scikit-learn
-matplotlib
-pandas
+opencv-contrib-python
 streamlit
